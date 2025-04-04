@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Estoque
+# Sistema de Produtos
 
 Este projeto é um sistema de produtos desenvolvido em Python, utilizando um banco de dados SQLite local. 
 Ele implementa funções Crud de cadastro, visualização, atualização e remoção de produtos por meio de uma interface interativa no terminal.
